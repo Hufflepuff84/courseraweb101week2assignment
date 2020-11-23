@@ -18,6 +18,12 @@ body {
     background-color: white;
 }
 
+#title {
+    color: orangered;
+    background-color: black;
+    
+}
+
 h1 {
     margin-bottom: 30px;
 }
