@@ -16,6 +16,8 @@ main {
     text-align: center;
 }
 
+
+
 p {
     color: black;
     background: white;
@@ -39,10 +41,11 @@ justify-content: center;
 margin: auto auto;  
 }
 
-nav {
-    width: 100%;
-}
-* {
-    color: violet;
-    background-color: violet;
+nav.a {
+    width: auto;
+    display: grid;
+    text-align: center;
+    word-spacing: 2cm;
+    color:violet;
+    background: black;
 }
