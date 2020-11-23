@@ -42,3 +42,7 @@ margin: auto auto;
 nav {
     width: 100%;
 }
+* {
+    color: violet;
+    background-color: violet;
+}
