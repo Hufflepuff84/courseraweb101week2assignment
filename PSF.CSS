@@ -13,7 +13,7 @@
   
   div{
     
-    background-color: violet;
+    background-color: rgb(251, 255, 0);
       border-style: solid;
     padding: 60px;
     margin: 15px;
@@ -37,15 +37,17 @@
   }
   
   .bg-playstationpurple{
-        background-color: purple;
+        background-color: violet;
   }
-  .bbg-playstationblue{
-    color: #FFFFFF;
-      background-color: blue;
-  }
+  
+  .bbg-playstationviolet{
+      color: black;
+      background-color: violet;;
+    }
   
   .bg-playstationgreen{
         background-color: green;
+        color: black;
   }
   
   @media screen and (min-width: 780px){
