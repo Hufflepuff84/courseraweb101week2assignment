@@ -33,19 +33,19 @@
     padding: 5px;
     text-align: center;
     border: solid 1px;
-    border-color: #000000;
+    border-color: black;
+    background-color: yellow;
   }
   
-  .bg-playstationpurple{
+  .bg-playstationone{
         background-color: violet;
   }
   
-  .bbg-playstationviolet{
-      color: black;
+  .bbg-playstationtwo{
       background-color: violet;;
     }
   
-  .bg-playstationgreen{
+  .bg-playstationthree{
         background-color: green;
         
   }
