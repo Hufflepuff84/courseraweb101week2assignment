@@ -8,6 +8,7 @@
     
     text-align: center;
     padding: 40px;
+ 
   }
   
   
@@ -21,8 +22,11 @@
     overflow:auto;
     
   }
-  
-  
+
+  section {
+    background-color: teal;
+  }
+ 
   
   .box{
     position: absolute;
@@ -41,8 +45,8 @@
         background-color: violet;
   }
   
-  .bbg-playstationtwo{
-      background-color: violet;;
+  .bg-playstationtwo{
+      background-color: yellow;
     }
   
   .bg-playstationthree{
